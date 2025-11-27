@@ -66,3 +66,4 @@ Traditional ML,descriptors,SVM_linear,0.6818181818181818,64
 Traditional ML,rdkit_fp,DecisionTree,0.6396541169268442,65
 Traditional ML,descriptors,NaiveBayes,0.5898377716559535,66
 Traditional ML,maccs,NaiveBayes,0.48561371288644023,67
+
